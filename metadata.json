@@ -1,0 +1,8 @@
+{
+  "name": "AI Math Solver",
+  "description": "High-contrast, accessible AI math solver with step-by-step explanations, graphing, and handwriting recognition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
